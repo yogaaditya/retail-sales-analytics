@@ -1,0 +1,10 @@
+Column,Data_Type,Missing_Count,Unique_Count
+Transaction_ID,str,0,30
+Date,datetime64[us],0,10
+Product,str,0,7
+Category,str,0,2
+Quantity,int64,0,8
+Unit_Price,int64,0,7
+Payment_Method,str,0,3
+City,str,0,3
+Sales,int64,0,17

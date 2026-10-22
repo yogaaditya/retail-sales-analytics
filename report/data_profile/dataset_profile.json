@@ -1,0 +1,27 @@
+{
+  "row_count": 30,
+  "column_count": 9,
+  "duplicate_rows": 0,
+  "duplicate_transaction_ids": 0,
+  "missing_cells": 0,
+  "total_sales": 976500.0,
+  "total_units": 118,
+  "unique_products": 7,
+  "unique_cities": 3,
+  "date_min": "2026-10-01",
+  "date_max": "2026-10-10",
+  "sales_by_product": {
+    "Roti": 230000.0,
+    "Susu": 216000.0,
+    "Kopi": 165000.0,
+    "Mi Instan": 101500.0,
+    "Air Mineral": 96000.0,
+    "Biskuit": 84000.0,
+    "Teh": 84000.0
+  },
+  "sales_by_payment": {
+    "QRIS": 411500.0,
+    "Tunai": 310000.0,
+    "Debit": 255000.0
+  }
+}
