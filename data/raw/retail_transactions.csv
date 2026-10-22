@@ -1,0 +1,31 @@
+﻿Transaction_ID,Date,Product,Category,Quantity,Unit_Price,Payment_Method,City
+TRX001,2026-10-01,Kopi,Minuman,2,15000,QRIS,Surabaya
+TRX002,2026-10-01,Roti,Makanan,3,10000,Tunai,Surabaya
+TRX003,2026-10-01,Susu,Minuman,2,18000,Debit,Sidoarjo
+TRX004,2026-10-02,Mi Instan,Makanan,5,3500,QRIS,Surabaya
+TRX005,2026-10-02,Kopi,Minuman,1,15000,Tunai,Gresik
+TRX006,2026-10-02,Roti,Makanan,2,10000,QRIS,Sidoarjo
+TRX007,2026-10-03,Susu,Minuman,3,18000,Tunai,Surabaya
+TRX008,2026-10-03,Kopi,Minuman,2,15000,Debit,Surabaya
+TRX009,2026-10-03,Mi Instan,Makanan,10,3500,QRIS,Gresik
+TRX010,2026-10-03,Roti,Makanan,4,10000,Tunai,Surabaya
+TRX011,2026-10-04,Air Mineral,Minuman,6,4000,QRIS,Sidoarjo
+TRX012,2026-10-04,Teh,Minuman,3,7000,Tunai,Surabaya
+TRX013,2026-10-04,Biskuit,Makanan,2,12000,Debit,Gresik
+TRX014,2026-10-05,Kopi,Minuman,3,15000,QRIS,Surabaya
+TRX015,2026-10-05,Roti,Makanan,5,10000,Debit,Sidoarjo
+TRX016,2026-10-05,Susu,Minuman,1,18000,QRIS,Gresik
+TRX017,2026-10-06,Mi Instan,Makanan,8,3500,Tunai,Surabaya
+TRX018,2026-10-06,Air Mineral,Minuman,10,4000,QRIS,Surabaya
+TRX019,2026-10-06,Teh,Minuman,4,7000,Debit,Sidoarjo
+TRX020,2026-10-07,Biskuit,Makanan,3,12000,QRIS,Surabaya
+TRX021,2026-10-07,Kopi,Minuman,2,15000,Tunai,Gresik
+TRX022,2026-10-07,Roti,Makanan,3,10000,QRIS,Surabaya
+TRX023,2026-10-08,Susu,Minuman,4,18000,Debit,Sidoarjo
+TRX024,2026-10-08,Mi Instan,Makanan,6,3500,QRIS,Surabaya
+TRX025,2026-10-08,Air Mineral,Minuman,8,4000,Tunai,Gresik
+TRX026,2026-10-09,Teh,Minuman,5,7000,QRIS,Surabaya
+TRX027,2026-10-09,Biskuit,Makanan,2,12000,Tunai,Sidoarjo
+TRX028,2026-10-09,Kopi,Minuman,1,15000,Debit,Surabaya
+TRX029,2026-10-10,Roti,Makanan,6,10000,QRIS,Gresik
+TRX030,2026-10-10,Susu,Minuman,2,18000,Tunai,Surabaya
