@@ -1,0 +1,10 @@
+RETAIL DATA CLEANING SUMMARY
+================================
+Input rows: 30
+Accepted rows: 30
+Rejected rows: 0
+Rows with issues: 0
+Total sales in accepted rows: 976,500
+
+Clean file: C:\Projects\retail-sales-analytics\data\processed\retail_transactions_clean.csv
+Rejected file: C:\Projects\retail-sales-analytics\data\processed\retail_transactions_rejected.csv

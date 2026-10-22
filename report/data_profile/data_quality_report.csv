@@ -1,0 +1,9 @@
+Rule,Failed_Rows,Status
+Required fields populated,0,PASS
+Date valid,0,PASS
+Quantity positive integer,0,PASS
+Unit price positive,0,PASS
+Category recognized,0,PASS
+Payment method recognized,0,PASS
+Transaction ID unique,0,PASS
+No exact duplicate rows,0,PASS
