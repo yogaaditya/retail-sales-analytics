@@ -1,5 +1,7 @@
 # Python
 .venv/
+venv/
+env/
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -14,8 +16,10 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # Temp and Log
+logs/
 *.log
 *.tmp
 
